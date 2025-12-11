@@ -1,0 +1,31 @@
+########################################
+Job started at: Thu Dec 11 14:25:16 EAT 2025
+User: maluoch
+Job ID: 383
+Directory: /home/maluoch/aluoch/project
+########################################
+Running FastQC on GSM461178_untreat_paired_subset_1.fastq
+Started analysis of GSM461178_untreat_paired_subset_1.fastq
+Approx 5% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 10% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 15% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 20% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 25% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 30% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 35% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 40% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 45% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 50% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 55% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 60% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 65% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 70% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 75% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 80% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 85% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 90% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 95% complete for GSM461178_untreat_paired_subset_1.fastq
+Approx 100% complete for GSM461178_untreat_paired_subset_1.fastq
+Analysis complete for GSM461178_untreat_paired_subset_1.fastq
+########################################
+Job finished at: 2025-12-11T14:25:22+0300
